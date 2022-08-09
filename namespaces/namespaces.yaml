@@ -9,7 +9,7 @@ metadata:
 apiVersion: v1
 kind: Namespace
 metadata:
-  name: namespace-1
+  name: namespace-2
   annotations:
     argocd.argoproj.io/sync-wave: "-1"
 ---
